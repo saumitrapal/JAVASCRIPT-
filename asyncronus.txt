@@ -1,0 +1,9 @@
+javascipt code will run line by line but 
+when javascipt will found async function 
+then javascipt deliyget the task web apis
+and javascipt do other syncronus task 
+when javascipt finish the syncronus task then it pull out 
+async taks to call stack and excicute task
+
+async means do task paraller
+syncronus means do tasks one after
